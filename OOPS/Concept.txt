@@ -1,0 +1,14 @@
+1. The object are created inside the heap memory.
+2. Every time we create an object a memory is allocated to it.
+3. The size of obj depends on the number of variables and methods.
+4. The memory is allocated by the constructor i.e. __init__.
+
+Self
+1.Self is just the reference of the object.
+2. This is the current instance.
+
+namespace
+1 namespace is an area where you create and store object/variables.
+2. There are two kinds of namespace :-
+           -class namespace
+           -Object/Instance namespace
